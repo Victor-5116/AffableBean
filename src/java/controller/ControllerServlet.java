@@ -18,11 +18,12 @@ import javax.servlet.http.HttpServletResponse;
  * @author myo
  */
 @WebServlet(name = "ControllerServlet", urlPatterns = {"/category", 
-    "/addToCart", "/viewCart", "/updateCart", "/checkout", "/purchase", "/chooseLanguage"})
+    "/addToCart", "/viewCart", "/updateCart", "/checkout", 
+    "/purchase", "/chooseLanguage"})
 public class ControllerServlet extends HttpServlet {
 
     /**
-     * Handles the HTTP <code>GET</code> method.
+     * Handles the HTTP <code>GET</code> haha.
      * @param request servlet request
      * @param response servlet response
      * @throws ServletException if a servlet-specific error occurs

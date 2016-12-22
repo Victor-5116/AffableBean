@@ -12,6 +12,7 @@
         [ order reference number ]
     </p>
 
+   
     <div class="summaryColumn" >
 
         <table id="orderSummaryTable" class="detailsTable" >
